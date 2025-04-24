@@ -10,6 +10,7 @@
   <div style="display: flex; gap: 16px;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SergioLPSousa&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioLPSousa&layout=compact&langs_count=8&theme=gotham&hide_border=true"/>
+    
   </div>
 
 </div>
@@ -19,6 +20,8 @@
   <img align="center" alt="Sergio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Sergio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Sergio-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="right" alt="Sergio-gif" height="200" width="260" src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif?cid=ecf05e47vkaywgc70pni4wokczgwjjruq409iql1xw6fo1z6&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+  
   
 </div>
 
